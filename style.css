@@ -986,7 +986,7 @@ img {
 
 .blog-card-thumb {
     position: relative;
-    aspect-ratio: 16/9;
+    aspect-ratio: 1/1;
     overflow: hidden;
     background: var(--bg-secondary);
 }
